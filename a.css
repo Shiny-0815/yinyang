@@ -7,6 +7,9 @@
       transform: rotate(360deg);
     }
   }
+  body{
+    background: #aaa;
+  }
   .yinyang{
     width: 200px;
     height: 200px;
